@@ -12,6 +12,8 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 <p align="right"><i>Poster by Clair Castle</i></p>
 
 ### Overview
@@ -277,5 +279,5 @@ This work is distributed under a Creative Commons [CC0 license](https://en.wikip
 Our sponsors:
 
 <p align="center">
-<img src=../20171024_GitHub_Chemistry_Cambridge/images/UniversityCambridge_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/CRUKCI_logo.jpg height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/Jisc_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/WellcomeTrust_logo.jpg height="50">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/UniversityCambridge_logo.png height="50"> <img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/CRUKCI_logo.jpg height="50"> <img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/Jisc_logo.png height="50"> <img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/WellcomeTrust_logo.jpg height="50">
 </p>
